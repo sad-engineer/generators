@@ -4,7 +4,7 @@ version = "0.0.01"
 description = ""
 authors = ["Andrey Nikolaevich Korenyuk <korenyuk.a.n@mail.ru>"]
 readme = "README.md"
-packages = [{include = "machine_tools"}]
+packages = [{include = "generators"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
