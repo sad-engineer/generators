@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "generators"
+version = "0.0.01"
+description = ""
+authors = ["Andrey Nikolaevich Korenyuk <korenyuk.a.n@mail.ru>"]
+readme = "README.md"
+packages = [{include = "machine_tools"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+dependency-injector = "^4.46.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
