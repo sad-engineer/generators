@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "generators"
-version = "0.0.01"
+version = "0.0.03"
 description = ""
 authors = ["Andrey Nikolaevich Korenyuk <korenyuk.a.n@mail.ru>"]
 readme = "README.md"
